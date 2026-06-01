@@ -1,0 +1,1077 @@
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.6.1)  1 JUN 2026 16:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./kursovaya.tex
+(kursovaya.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\extreport.cls
+Document Class: extreport 1996/10/08 v1.0 Non Standard LaTeX document class
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/base\exscale.sty
+Package: exscale 2025/06/05 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen148
+)
+\c@part=\count271
+\c@chapter=\count272
+\c@section=\count273
+\c@subsection=\count274
+\c@subsubsection=\count275
+\c@paragraph=\count276
+\c@subparagraph=\count277
+\c@figure=\count278
+\c@table=\count279
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen149
+)
+(timcw.sty
+Package: timcw Course work style
+
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2aenc.def
+File: t2aenc.def 2023/11/07 v1.0k Cyrillic encoding definition file
+)
+LaTeX Font Info:    Trying to load font information for T2A+lmr on input line 1
+16.
+LaTeX Font Info:    No file T2Almr.fd. on input line 116.
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
+16.
+
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+
+LaTeX Font Warning: Font shape `T2A/lmr/m/n' undefined
+(Font)              using `T2A/cmr/m/n' instead on input line 116.
+
+) (C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2025/12/11 v25.17 The multilingual framework for LuaLaTeX, pdfLa
+TeX and XeLaTeX
+\babel@savecnt=\count280
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
+ne 2068.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
+ne 2070.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
+e 2072.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
+e 2073.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
+on input line 2074.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
+on input line 2076.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
+on input line 2101.
+\U@D=\dimen150
+\l@unhyphenated=\language79
+
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/generic/babel\xebabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count281
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4196.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babel
+-english.tex)
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/ru\babel
+-russian.tex)
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 4320.
+
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+)
+Package babel Info: Importing font and identification data for russian
+(babel)             from babel-ru.ini. Reported on input line 4320.
+
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/babel-russian\russianb.
+ldf
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
+Package babel Info: Making " an active character on input line 124.
+Package babel Info: Default for \cyrdash is provided on input line 163.
+))
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count282
+\Gm@cntv=\count283
+\c@Gm@tempcnt=\count284
+\Gm@bindingoffset=\dimen151
+\Gm@wd@mp=\dimen152
+\Gm@odd@mp=\dimen153
+\Gm@even@mp=\dimen154
+\Gm@layoutwidth=\dimen155
+\Gm@layoutheight=\dimen156
+\Gm@layouthoffset=\dimen157
+\Gm@layoutvoffset=\dimen158
+\Gm@dimlist=\toks20
+
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/t2\misccorr.sty
+Package: misccorr 1999/09/23 v0.1 misc corrections for russian typesetting
+
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks21
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/tools\enumerate.sty
+Package: enumerate 2023/07/04 v3.00 enumerate extensions (DPC)
+\@enLab=\toks22
+)
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 29 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 38 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 40 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 40 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 40 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 40 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 40 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 40 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 40 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 47 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 48 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 49 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 50 replaced by U+FFFD.
+\c@rlistctr=\count285
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 228 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 266 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 304 replaced by U+FFFD.
+)
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+)
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen159
+\Gin@req@width=\dimen160
+))
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2025-12-24 L3 programming layer (loader) 
+
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xet
+ex.def
+File: l3backend-xetex.def 2025-10-09 L3 backend support: XeTeX
+\g__graphics_track_int=\count286
+\g__pdfannot_backend_int=\count287
+\g__pdfannot_backend_link_int=\count288
+))
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
+
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex
+.sty
+Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count289
+\l__fontspec_language_int=\count290
+\l__fontspec_strnum_int=\count291
+\l__fontspec_tmp_int=\count292
+\l__fontspec_tmpa_int=\count293
+\l__fontspec_tmpb_int=\count294
+\l__fontspec_tmpc_int=\count295
+\l__fontspec_em_int=\count296
+\l__fontspec_emdef_int=\count297
+\l__fontspec_strong_int=\count298
+\l__fontspec_strongdef_int=\count299
+\l__fontspec_tmpa_dim=\dimen161
+\l__fontspec_tmpb_dim=\dimen162
+\l__fontspec_tmpc_dim=\dimen163
+ (C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg))
+) (C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count300
+\float@exts=\toks23
+\float@box=\box53
+\@float@everytoks=\toks24
+\@floatcapt=\box54
+)
+
+Package fontspec Info: 
+(fontspec)             Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options
+(fontspec)             [Ligatures=TeX,Script=Cyrillic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=cyrl;language=dflt;mapping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=cyrl;language=dflt;+smcp;mapping=tex-tex
+t;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=cyrl;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: <->"Times
+(fontspec)             New
+(fontspec)             Roman/B/OT:script=cyrl;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=cyrl;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/I/OT:script=cyrl;language=dflt;+smcp;mapping=tex-t
+ext;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=cyrl;language=dflt;mapping=tex-text;"
+
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Times New
+(fontspec)             Roman/BI/OT:script=cyrl;language=dflt;+smcp;mapping=tex-
+text;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'Arial(0)' created for font 'Arial' with
+(fontspec)             options [Ligatures=TeX,Script=Cyrillic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=cyrl;language=dflt;mapping=tex-text;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=cyrl;language=dflt;+smcp;mapping=tex
+-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=cyrl;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=cyrl;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=cyrl;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=cyrl;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=cyrl;language=dflt;mapping=tex-te
+xt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=cyrl;language=dflt;+smcp;mapping=
+tex-text;"
+
+
+Package fontspec Info: 
+(fontspec)             Script 'Cyrillic' not explicitly supported within font
+(fontspec)             'Courier New'. Check the typeset output, and if it is
+(fontspec)             okay then ignore this warning. Otherwise a different
+(fontspec)             font should be chosen.
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'CourierNew(0)' created for font 'Courier
+(fontspec)             New' with options
+(fontspec)             [WordSpace={1,0,0},HyphenChar=None,PunctuationSpace=Word
+Space,Script=Cyrillic].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Courier
+(fontspec)             New/OT:script=cyrl;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Courier
+(fontspec)             New/B/OT:script=cyrl;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Courier
+(fontspec)             New/I/OT:script=cyrl;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Courier
+(fontspec)             New/BI/OT:script=cyrl;language=dflt;"
+
+
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen164
+\captionmargin=\dimen165
+\caption@leftmargin=\dimen166
+\caption@rightmargin=\dimen167
+\caption@width=\dimen168
+\caption@indent=\dimen169
+\caption@parindent=\dimen170
+\caption@hangindent=\dimen171
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip \abovecaptionski
+p \sbox \@tempboxa {#1. #2}\ifdim \wd \@tempboxa >\hsize #1. #2\par \else \glob
+al \@minipagefalse \hb@xt@ \hsize {\hfil \box \@tempboxa \hfil }\fi \vskip \bel
+owcaptionskip  on input line 1175.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count301
+\c@continuedfloat=\count302
+Package caption Info: float package is loaded.
+) (C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count303
+\lst@gtempboxa=\box55
+\lst@token=\toks25
+\lst@length=\count304
+\lst@currlwidth=\dimen172
+\lst@column=\count305
+\lst@pos=\count306
+\lst@lostspace=\dimen173
+\lst@width=\dimen174
+\lst@newlines=\count307
+\lst@lineno=\count308
+\lst@maxwidth=\dimen175
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
+)
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+\c@lstnumber=\count309
+\lst@skipnumbers=\count310
+\lst@framebox=\box56
+)
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2025/11/14 1.11b listings configuration
+))
+Package: listings 2025/11/14 1.11b (Carsten Heinz)
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+) (kursovaya.aux
+Package babel Info: 'russian' activates 'russian' shorthands.
+(babel)             Reported on input line 5.
+)
+\openout1 = `kursovaya.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Info: Redefining \th on input line 35.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 483.69687pt, 28.45274pt)
+* v-part:(T,H,B)=(56.9055pt, 717.00946pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=717.00946pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-54.36449pt
+* \headheight=14.0pt
+* \headsep=25.0pt
+* \topskip=14.0pt
+* \footskip=30.0pt
+* \marginparwidth=15.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 35.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 35.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 35.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 35.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 35.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 35.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 35.
+LaTeX Font Info:    Redeclaring math accent \check on input line 35.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 35.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 35.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 35.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 35.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 35.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 35.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 3
+5.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 35.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
+35.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
+input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
+ 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
+35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/Arial(0)/m/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/m/n on input line 35.
+
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
+input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
+e 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/Arial(0)/b/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/CourierNew(0)/b/n on input line 35.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count311
+File: tim-logo.png Graphic file (type bmp)
+<tim-logo.png>
+LaTeX Font Info:    Trying to load font information for U+msa on input line 44.
+
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 44.
+
+
+(C:\Users\e-ned\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (6.83113pt too wide) in paragraph at lines 44--44
+\TU/TimesNewRoman(0)/m/n/14.4 тационного моделирования логистических процессов 
+в агропромышленном ком-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+
+ []
+
+[1
+
+] (kursovaya.toc)
+\tf@toc=\write3
+\openout3 = `kursovaya.toc'.
+
+ [2]
+Overfull \hbox (2.82567pt too wide) in paragraph at lines 56--57
+[]\TU/TimesNewRoman(0)/m/n/14.4 Несмотря на важность данного вопроса, многие се
+льскохозяйственные пред-
+ []
+
+
+Overfull \hbox (25.14752pt too wide) in paragraph at lines 65--66
+[]\TU/TimesNewRoman(0)/m/n/14.4 Обосновать выбор инструментов разработки: язык 
+программирования Python,
+ []
+
+
+Overfull \hbox (32.07802pt too wide) in paragraph at lines 65--66
+\TU/TimesNewRoman(0)/m/n/14.4 фреймворк Django, систему управления базами данны
+х SQLite, среду PyCharm; 
+ []
+
+
+Overfull \hbox (1.97018pt too wide) in paragraph at lines 67--68
+[]\TU/TimesNewRoman(0)/m/n/14.4 Реализовать веб-интерфейс, обеспечивающий учёт 
+работников, складских
+ []
+
+[3] [4]
+Глава 1.
+[5
+
+]
+Overfull \hbox (3.17252pt too wide) in paragraph at lines 100--101
+[]\TU/TimesNewRoman(0)/m/n/14.4 Дискретно-событийное моделирование, напротив, ф
+окусируется на конкрет-
+ []
+
+[6] [7] [8]
+Глава 2.
+
+Overfull \hbox (3.98582pt too wide) in paragraph at lines 130--131
+\TU/TimesNewRoman(0)/m/n/14.4 ставляет готовую архитектуру для создания веб-при
+ложений, включая объектно-
+ []
+
+
+Overfull \hbox (19.75456pt too wide) in paragraph at lines 136--137
+[]\TU/TimesNewRoman(0)/m/n/14.4 Для оформления пользовательского интерфейса при
+менён фреймворк Bootstrap
+ []
+
+
+Overfull \hbox (13.87413pt too wide) in paragraph at lines 138--139
+[]\TU/TimesNewRoman(0)/m/n/14.4 Таким образом, выбранный стек технологий (Pytho
+n, Django, SQLite, PyCharm,
+ []
+
+[9
+
+]
+File: images/worker_model.png Graphic file (type bmp)
+<images/worker_model.png>
+File: images/specodejda_model.png Graphic file (type bmp)
+<images/specodejda_model.png>
+ [10]
+File: images/issueditem_model.png Graphic file (type bmp)
+<images/issueditem_model.png>
+ [11]
+Overfull \hbox (13.77798pt too wide) in paragraph at lines 170--171
+[]\TU/TimesNewRoman(0)/m/n/14.4 Система предоставляет следующие функции, доступ
+ные через веб-интерфейс:
+ []
+
+
+Overfull \hbox (7.63739pt too wide) in paragraph at lines 170--171
+\TU/TimesNewRoman(0)/m/n/14.4 требующей замены. Доступ к административной панел
+и Django позволяет управ-
+ []
+
+
+Overfull \hbox (9.53815pt too wide) in paragraph at lines 172--173
+[]\TU/TimesNewRoman(0)/m/n/14.4 Ядром системы, реализующим имитационное моделир
+ование, является функ-
+ []
+
+[12]
+File: images/run_simulation_code.png Graphic file (type bmp)
+<images/run_simulation_code.png>
+File: images/admin_code.png Graphic file (type bmp)
+<images/admin_code.png>
+ [13]
+Overfull \hbox (3.74913pt too wide) in paragraph at lines 194--195
+[]\TU/TimesNewRoman(0)/m/n/14.4 Представления являются связующим звеном между м
+оделями данных и шаб-
+ []
+
+
+Overfull \hbox (9.72803pt too wide) in paragraph at lines 198--199
+\TU/TimesNewRoman(0)/m/n/14.4 одежды. Функция демонстрирует типичный для Django
+ подход к обработке форм:
+ []
+
+File: images/issue_form_code.png Graphic file (type bmp)
+<images/issue_form_code.png>
+[14]
+File: images/urls_code.png Graphic file (type bmp)
+<images/urls_code.png>
+
+Overfull \hbox (29.98506pt too wide) in paragraph at lines 216--217
+[]\TU/TimesNewRoman(0)/m/n/14.4 Все страницы системы построены на основе единог
+о базового шаблона base.html,
+ []
+
+[15]
+File: images/base_html_code.png Graphic file (type bmp)
+<images/base_html_code.png>
+ [16]
+Overfull \hbox (6.82999pt too wide) in paragraph at lines 246--247
+\TU/TimesNewRoman(0)/m/n/14.4 и обработчиками. В стандартную конфигурацию была 
+добавлена ссылка на URL-
+ []
+
+
+Overfull \hbox (5.08507pt too wide) in paragraph at lines 246--247
+\TU/TimesNewRoman(0)/m/n/14.4 конфигурацию приложения warehouse с помощью функц
+ии include. Также остав-
+ []
+
+[17]
+Overfull \hbox (1.04912pt too wide) in paragraph at lines 262--263
+\TU/TimesNewRoman(0)/m/n/14.4 размещать шаблоны внутри поддиректории с именем п
+риложения, поэтому пол-
+ []
+
+
+Overfull \hbox (7.07721pt too wide) in paragraph at lines 266--267
+[]\TU/TimesNewRoman(0)/m/n/14.4 Остальные пять шаблонов соответствуют страницам
+ системы: dashboard.html
+ []
+
+File: images/project_structure.png Graphic file (type bmp)
+<images/project_structure.png>
+[18]
+Overfull \hbox (27.22176pt too wide) in paragraph at lines 282--283
+[]\TU/TimesNewRoman(0)/m/n/14.4 Таким образом, структура проекта соответствует 
+стандартам Django-разработки.
+ []
+
+
+Overfull \hbox (7.44055pt too wide) in paragraph at lines 286--287
+\TU/TimesNewRoman(0)/m/n/14.4 лона base.html, который содержит навигационную па
+нель и подключает Bootstrap
+ []
+
+[19]
+File: images/dashboard.png Graphic file (type bmp)
+<images/dashboard.png>
+ [20]
+File: images/workers.png Graphic file (type bmp)
+<images/workers.png>
+File: images/stock.png Graphic file (type bmp)
+<images/stock.png>
+ [21]
+File: images/issue_form.png Graphic file (type bmp)
+<images/issue_form.png>
+ [22]
+File: images/worn_items.png Graphic file (type bmp)
+<images/worn_items.png>
+ [23]
+Overfull \hbox (14.62646pt too wide) in paragraph at lines 349--350
+\TU/TimesNewRoman(0)/m/n/14.4 «Выдана». Для каждой записи определяется норматив
+ный срок службы norm_days
+ []
+
+File: images/simulation_result.png Graphic file (type bmp)
+<images/simulation_result.png>
+[24]
+File: images/worn_items_simulation.png Graphic file (type bmp)
+<images/worn_items_simulation.png>
+ [25] [26] [27]
+Underfull \hbox (badness 5490) in paragraph at lines 437--438
+[]\TU/TimesNewRoman(0)/m/n/14.4 Кузнецов С.Д. Основы баз данных [Электронный ре
+сурс]. – URL:
+ []
+
+
+Underfull \hbox (badness 8094) in paragraph at lines 439--440
+[]\TU/TimesNewRoman(0)/m/n/14.4 Официальная документация Django [Электронный ре
+сурс]. – URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 440--441
+[]\TU/TimesNewRoman(0)/m/n/14.4 Официальный сайт Python [Электронный ресурс]. –
+ URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--445
+[]\TU/TimesNewRoman(0)/m/n/14.4 Федеральный закон от 28.12.2013 № 426-ФЗ «О спе
+циаль-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--445
+\TU/TimesNewRoman(0)/m/n/14.4 ной оценке условий труда» [Электронный ресурс]. –
+ URL:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--445
+\TU/TimesNewRoman(0)/m/n/14.4 http://www.consultant.ru/document/cons_doc_LAW_15
+6555/ (Дата обра-
+ []
+
+[28] [29] [30] [31] [32] [33]
+File: images/dashboard.png Graphic file (type bmp)
+<images/dashboard.png>
+File: images/workers.png Graphic file (type bmp)
+<images/workers.png>
+File: images/stock.png Graphic file (type bmp)
+<images/stock.png>
+ [34]
+File: images/issue_form.png Graphic file (type bmp)
+<images/issue_form.png>
+File: images/worn_items.png Graphic file (type bmp)
+<images/worn_items.png>
+ [35]
+File: images/admin.png Graphic file (type bmp)
+<images/admin.png>
+)
+! Emergency stop.
+<*> ./kursovaya.tex
+                   
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 10064 strings out of 402987
+ 218568 string characters out of 5448525
+ 1078837 words of memory out of 5000000
+ 38608 multiletter control sequences out of 15000+600000
+ 636131 words of font info for 115 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 73i,6n,93p,944b,1759s stack positions out of 10000i,1000n,20000p,200000b,200000s
+Output written on kursovaya.pdf (35 pages).
