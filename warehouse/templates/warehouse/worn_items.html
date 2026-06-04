@@ -1,0 +1,42 @@
+{% extends 'warehouse/base.html' %}
+
+{% block content %}
+<h1> Список изношенной спецодежды</h1>
+
+{% if worn_items %}
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Работник</th>
+            <th>Должность</th>
+            <th>Предмет</th>
+            <th>Тип</th>
+            <th>Размер</th>
+            <th>Дата выдачи</th>
+            <th>Норматив (дней)</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for item in worn_items %}
+        <tr>
+            <td>{{ item.worker.full_name }}</td>
+            <td>{{ item.worker.position }}</td>
+            <td>{{ item.spec_odejda.name }}</td>
+            <td>{{ item.spec_odejda.get_type_display }}</td>
+            <td>{{ item.spec_odejda.size }}</td>
+            <td>{{ item.issue_date }}</td>
+            <td>{{ item.spec_odejda.norm_days }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<div class="alert alert-info mt-3">
+    <strong>Всего изношено:</strong> {{ worn_items.count }} единиц
+</div>
+{% else %}
+<div class="alert alert-success">
+     Нет изношенной одежды. Всё в порядке!
+</div>
+{% endif %}
+{% endblock %}

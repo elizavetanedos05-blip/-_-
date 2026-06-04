@@ -1,0 +1,80 @@
+{% extends 'warehouse/base.html' %}
+
+{% block content %}
+<h1 class="mb-4"> Панель состояния</h1>
+
+<div class="row">
+    <div class="col-md-3">
+        <div class="card text-white bg-primary mb-3">
+            <div class="card-body">
+                <h5 class="card-title"> Работников</h5>
+                <h2>{{ workers_count }}</h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card text-white bg-success mb-3">
+            <div class="card-body">
+                <h5 class="card-title"> Видов одежды</h5>
+                <h2>{{ items_count }}</h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card text-white bg-warning mb-3">
+            <div class="card-body">
+                <h5 class="card-title"> Выдано единиц</h5>
+                <h2>{{ issued_count }}</h2>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card text-white bg-danger mb-3">
+            <div class="card-body">
+                <h5 class="card-title"> Изношено</h5>
+                <h2>{{ worn_count }}</h2>
+            </div>
+        </div>
+    </div>
+</div>
+
+<h4 class="mt-4"> Требуют замены (износ > 50%):</h4>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Работник</th>
+            <th>Предмет</th>
+            <th>Износ</th>
+            <th>Дата выдачи</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for item in worn_items %}
+        <tr>
+            <td>{{ item.worker.full_name }}</td>
+            <td>{{ item.spec_odejda.name }}</td>
+            <td>
+                <div class="progress">
+                    {% if item.wear_level >= 80 %}
+                        <div class="progress-bar bg-danger" style="width: {{ item.wear_level }}%">
+                            {{ item.wear_level }}%
+                        </div>
+                    {% elif item.wear_level >= 50 %}
+                        <div class="progress-bar bg-warning" style="width: {{ item.wear_level }}%">
+                            {{ item.wear_level }}%
+                        </div>
+                    {% else %}
+                        <div class="progress-bar bg-success" style="width: {{ item.wear_level }}%">
+                            {{ item.wear_level }}%
+                        </div>
+                    {% endif %}
+                </div>
+            </td>
+            <td>{{ item.issue_date }}</td>
+        </tr>
+        {% empty %}
+        <tr><td colspan="4" class="text-success"> Пока всё в порядке!</td></tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

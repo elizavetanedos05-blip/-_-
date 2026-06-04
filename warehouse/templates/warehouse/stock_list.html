@@ -1,0 +1,37 @@
+{% extends 'warehouse/base.html' %}
+
+{% block content %}
+<h1> Остатки на складе</h1>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Наименование</th>
+            <th>Тип</th>
+            <th>Размер</th>
+            <th>На складе</th>
+            <th>Норматив (дней)</th>
+            <th>Статус</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for item in stock %}
+        <tr>
+            <td>{{ item.name }}</td>
+            <td>{{ item.get_type_display }}</td>
+            <td>{{ item.size }}</td>
+            <td>{{ item.quantity_in_stock }}</td>
+            <td>{{ item.norm_days }}</td>
+            <td>
+                {% if item.quantity_in_stock > 5 %}
+                    <span class="badge bg-success">В норме</span>
+                {% elif item.quantity_in_stock > 0 %}
+                    <span class="badge bg-warning">Мало</span>
+                {% else %}
+                    <span class="badge bg-danger">Нет в наличии!</span>
+                {% endif %}
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}
